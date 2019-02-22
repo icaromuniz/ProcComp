@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Process Management and Compliance Webkit
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: icaromuniz
+Implementation-Vendor-Id: au.com.envirotech
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/process
+Created-By: Maven Integration for Eclipse
+
