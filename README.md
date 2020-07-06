@@ -1,2 +1,2 @@
 # ProcCompRepository
-temp description
+Proccess Modelling Tool for Specifying and Mapping real-world enterprise processes.
